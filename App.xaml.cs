@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Toolbar_Ex
+namespace WPF_Controls_Toolbar_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

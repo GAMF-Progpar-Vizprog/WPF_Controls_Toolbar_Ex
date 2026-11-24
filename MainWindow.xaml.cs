@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Toolbar_Ex
+namespace WPF_Controls_Toolbar_Ex
 {
 	public partial class MainWindow : Window
 	{
